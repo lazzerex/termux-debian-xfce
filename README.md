@@ -4,6 +4,9 @@ Run a full Debian desktop (XFCE) on an Android phone, no root required, using Te
 
 Tested on: ZTE Blade A54, Debian 13 (trixie), aarch64. Needs about 3-4 GB of storage and 4 GB RAM or more is recommended.
 
+<img width="2796" height="1240" alt="screenshot" src="https://github.com/user-attachments/assets/45bd419f-d388-4b8e-902a-0fbf0f92b6ae" />
+
+
 ## Requirements
 
 - [Termux](https://github.com/termux/termux-app/releases) from F-Droid or GitHub (not the Play Store version)
