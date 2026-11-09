@@ -1,0 +1,21 @@
+{
+  "logo": { "type": "auto" },
+  "display": { "separator": ": ", "color": { "keys": "red" } }, // key color: red, blue, green, cyan, yellow, magenta
+  "modules": [
+    { "type": "custom", "format": "YOUR_NAME@YOUR_HOSTNAME" },
+    { "type": "custom", "format": "------------------------" },
+    "os",
+    { "type": "custom", "key": "Device", "format": "YOUR_PHONE_MODEL" },
+    { "type": "command", "key": "Kernel", "text": "echo Linux $(uname -r | cut -d- -f1)" },
+    "uptime",
+    "packages",
+    "shell",
+    "de",
+    "wm",
+    "terminal",
+    "cpu",
+    "gpu",
+    "memory",
+    "swap"
+  ]
+}
