@@ -1,6 +1,6 @@
 # Debian XFCE Desktop on Android (Termux + proot-distro)
 
-Run a full Debian desktop (XFCE) on an Android phone, no root required, using Termux, proot-distro and Termux:X11.
+Run a full Debian desktop (XFCE) on an Android phone, no root required, using proot-distro, Termux and Termux:X11.
 
 Tested on: ZTE Blade A54, Debian 13 (trixie), aarch64. Needs about 3-4 GB of storage and 4 GB RAM or more is recommended.
 
